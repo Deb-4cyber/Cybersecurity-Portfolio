@@ -67,7 +67,7 @@ Cybersecurity-Portfolio
 
 Explore hands-on projects and labs across multiple cybersecurity domains:
 
-- ☁️🔒 Cloud Security → [![Repo](https://img.shields.io/badge/Repo-Cloud%20Security-blue)](https://github.com/yourusername/cloud-security)  
+- ☁️🔒 Cloud Security → [Cloud-Based Encryption Service](https://github.com/Deb-4cyber/cloud-security)
   - ☁️ AWS | 🔑 IAM & RBAC | 🛡️ Compliance & Monitoring
 
 - 🔐 Cryptography & Protocol Analysis → [REPO]
