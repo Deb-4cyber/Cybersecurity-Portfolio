@@ -6,7 +6,7 @@ Welcome to my cybersecurity portfolio!
 
 I am a cybersecurity professional with double Master’s degrees in Cybersecurity and Computer Science, combining strong academic foundations with hands-on experience across multiple security domains. I bring industry experience from a healthcare manufacturing environment, where I supported secure system operations by managing role-based access controls (RBAC), identity management, and compliance-focused documentation in an FDA-regulated setting.
 
-This repository serves as a central hub for hands-on labs and academic projects completed in controlled environments. The work showcased here reflects practical approaches to security operations, threat analysis, and defensive and offensive security techniques.
+This repository serves as a central hub for hands-on labs and academic projects completed in controlled environments. The work showcased here reflects practical approaches to network security operations, digital forensic analysis, and defensive and offensive security techniques.
 
 ---
 
@@ -31,7 +31,7 @@ This portfolio acts as a central hub for multiple cybersecurity domains. Each do
 - **🛠️ Tools & Technologies** – List of tools, frameworks, and platforms used  
 - **💻 Implementation / Steps** – Detailed walkthrough with code snippets, commands, or lab setups  
 - **📊 Results / Findings** – Outcomes, key takeaways, or security insights discovered  
-- **🖼️ Screenshots / Diagrams** – Visual evidence of work, lab setup, or results  
+- **🖼️ Screenshots / Diagrams /Videos** – Visual evidence of work, lab setup, or results  
 - **💡 Challenges & Lessons Learned** – Optional reflections and problem-solving insights  
 
 ---
