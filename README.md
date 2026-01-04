@@ -67,11 +67,11 @@ Cybersecurity-Portfolio
 
 Explore hands-on projects and labs across multiple cybersecurity domains:
 
-- 🔐 Cryptography & Protocol Analysis → [REPO]
-  - 🧮 Encryption & Decryption | 🔏 Protocol Security | 🔐 Authentication
-
 - ☁️🔒 Cloud Security → [![Repo](https://img.shields.io/badge/Repo-Cloud%20Security-blue)](https://github.com/yourusername/cloud-security)  
   - ☁️ AWS | 🔑 IAM & RBAC | 🛡️ Compliance & Monitoring
+
+- 🔐 Cryptography & Protocol Analysis → [REPO]
+  - 🧮 Encryption & Decryption | 🔏 Protocol Security | 🔐 Authentication
 
 - 🕵️‍♂️ Digital Forensics → [![Repo](https://img.shields.io/badge/Repo-Digital%20Forensics-blue)](https://github.com/yourusername/digital-forensics)  
   - 🗂️ File & Memory Analysis | 🔍 Evidence Collection | 🖼️ Forensic Reporting
@@ -90,9 +90,9 @@ Feel free to reach out for collaboration or security-focused opportunities.
 ---
 
 ## 📫 Contact
-- 💼 **LinkedIn**: [linkedin.com/in/deborah-ageorge]
-- 📧 **Email**: [deborahgeorge44@gmail.com]
-- 💻 **GitHub**: [github.com/Deb-4cyber]
+- 💼 **LinkedIn**: [linkedin.com/in/deborah-ageorge](https://linkedin.com/in/deborah-ageorge)
+- 📧 **Email**: [deborahgeorge44@gmail.com](mailto:deborahgeorge44@gmail.com)
+- 💻 **GitHub**: [github.com/Deb-4cyber](https://github.com/Deb-4cyber)
 
 ---
 
