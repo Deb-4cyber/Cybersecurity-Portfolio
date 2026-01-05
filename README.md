@@ -67,8 +67,8 @@ Cybersecurity-Portfolio
 
 Explore hands-on projects and labs across multiple cybersecurity domains:
 
-- ☁️🔒 Cloud Security → [Cloud-Based Encryption Service](https://github.com/Deb-4cyber/cloud-security)
-  - ☁️ AWS | 🔑 IAM & RBAC | 🛡️ Compliance & Monitoring
+- [![Cloud Security Repo](https://img.shields.io/badge/Repo-Cloud_Security-blue?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/cloud-security)
+  - ☁️ AWS EC2 | 🔑 SSH / PuTTY | 🛡️ SFTP / FileZilla
 
 - 🔐 Cryptography & Protocol Analysis → [REPO]
   - 🧮 Encryption & Decryption | 🔏 Protocol Security | 🔐 Authentication
