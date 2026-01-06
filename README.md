@@ -76,7 +76,7 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
 - 🕵️‍♂️ Digital Forensics → [![Repo](https://img.shields.io/badge/Repo-Digital%20Forensics-blue)](https://github.com/yourusername/digital-forensics)  
   - 🗂️ File & Memory Analysis | 🔍 Evidence Collection | 🖼️ Forensic Reporting
 
-- 🌐 Network Security → [![Repo](https://img.shields.io/badge/Repo-Network%20Security-blue)](https://github.com/yourusername/network-security)  
+- [![Network Security Repo](https://img.shields.io/badge/Repo-Network_Security-green?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/network-security)  
   - 🖧 Network Scanning | 🛡️ Firewall & IDS | 📡 Packet Analysis
 
 - 💣 Offensive Security → [![Repo](https://img.shields.io/badge/Repo-Offensive%20Security-blue)](https://github.com/yourusername/offensive-security)  
