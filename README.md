@@ -67,16 +67,16 @@ Cybersecurity-Portfolio
 
 Explore hands-on projects and labs across multiple cybersecurity domains:
 
-- [![Cloud Security Repo](https://img.shields.io/badge/Repo-Cloud_Security-neon?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/cloud-security)
+- [![Cloud Security Repo](https://img.shields.io/badge/Repo-Cloud_Security-pink?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/cloud-security)
   - ☁️ AWS EC2 | 🔑 SSH / PuTTY | 🛡️ SFTP / FileZilla
 
-- [![Cryptography Repo](https://img.shields.io/badge/Repo-Cryptography-magenta?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Cryptography)
+- [![Cryptography Repo](https://img.shields.io/badge/Repo-Cryptography-gold?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Cryptography)
   - 🧮 Encryption & Decryption | 🔏 Protocol Security | 🔐 Authentication
 
-- [![Digital Forensics Repo](https://img.shields.io/badge/Repo-Digital_Forensics-yellow?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Digital-Forensics)  
+- [![Digital Forensics Repo](https://img.shields.io/badge/Repo-Digital_Forensics-green?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Digital-Forensics)  
   - 🗂️ File & Memory Analysis | 🔍 Evidence Collection | 🕵️ Forensic Reporting
 
-- [![Network Security Repo](https://img.shields.io/badge/Repo-Network_Security-green?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/network-security)  
+- [![Network Security Repo](https://img.shields.io/badge/Repo-Network_Security-blue?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/network-security)  
   - 🖧 Network Scanning | 🛡️ Firewall & IDS | 📡 Packet Analysis
 
 - [![Offensive Security Repo](https://img.shields.io/badge/Repo-Offensive_Security-red?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/offensive-security)  
