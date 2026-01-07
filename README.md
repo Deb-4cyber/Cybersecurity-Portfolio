@@ -70,7 +70,7 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
 - [![Cloud Security Repo](https://img.shields.io/badge/Repo-Cloud_Security-orange?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/cloud-security)
   - ☁️ AWS EC2 | 🔑 SSH / PuTTY | 🛡️ SFTP / FileZilla
 
-- [![Cryptography Repo](https://img.shields.io/badge/Repo-Cryptography-gold?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Cryptography)
+- [![Cryptography Repo](https://img.shields.io/badge/Repo-Cryptography-violet?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Cryptography)
   - 🧮 Encryption & Decryption | 🔏 Protocol Security | 🔐 Authentication
 
 - [![Digital Forensics Repo](https://img.shields.io/badge/Repo-Digital_Forensics-green?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Digital-Forensics)  
