@@ -67,7 +67,7 @@ Cybersecurity-Portfolio
 
 Explore hands-on projects and labs across multiple cybersecurity domains:
 
-- [![Cloud Security Repo](https://img.shields.io/badge/Repo-Cloud_Security-pink?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/cloud-security)
+- [![Cloud Security Repo](https://img.shields.io/badge/Repo-Cloud_Security-orange?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/cloud-security)
   - ☁️ AWS EC2 | 🔑 SSH / PuTTY | 🛡️ SFTP / FileZilla
 
 - [![Cryptography Repo](https://img.shields.io/badge/Repo-Cryptography-gold?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Cryptography)
