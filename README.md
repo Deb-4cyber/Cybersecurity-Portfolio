@@ -13,7 +13,7 @@ This repository serves as a central hub for hands-on labs and academic projects 
 ## 🧩 Domains Covered
 - ☁️🔒 Cloud Security (AWS)  
 - 🔐 Cryptography & Protocol Analysis  
-- 📱 Mobile Digital Forensics  
+- 🕵️ Digital Forensics  
 - 🌐 Network Security  
 - 💣 Offensive Security & Vulnerability Assessment  
 - 🔵 Security Operations & Incident Response  
@@ -74,7 +74,7 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
   - 🧮 Encryption & Decryption | 🔏 Protocol Security | 🔐 Authentication
 
 - [![Digital Forensics Repo](https://img.shields.io/badge/Repo-Digital_Forensics-yellow?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Digital-Forensics)  
-  - 🗂️ File & Memory Analysis | 🔍 Evidence Collection | 🖼️ Forensic Reporting
+  - 🗂️ File & Memory Analysis | 🔍 Evidence Collection | 🕵️ Forensic Reporting
 
 - [![Network Security Repo](https://img.shields.io/badge/Repo-Network_Security-green?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/network-security)  
   - 🖧 Network Scanning | 🛡️ Firewall & IDS | 📡 Packet Analysis
