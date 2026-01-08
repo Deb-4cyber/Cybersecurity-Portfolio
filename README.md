@@ -4,7 +4,9 @@
 
 Welcome to my cybersecurity portfolio!
 
-I am a cybersecurity professional with **double Master’s degrees in Cybersecurity and Computer Science**, combining strong academic foundations with hands-on experience across multiple security domains. I bring **industry experience from a healthcare manufacturing environment**, where I supported secure system operations by managing role-based access controls (RBAC), identity management, and compliance-focused documentation in an FDA-regulated setting.
+I am a cybersecurity professional with **double Master’s degrees in Cybersecurity and Computer Science**, combining strong academic foundations with hands-on experience across multiple security domains. 
+
+*I bring industry experience from an FDA-regulated healthcare manufacturing environment, where I supported secure system operations by managing RBAC, identity workflows, and compliance, documentation helping maintain audit readiness and reduce access-related security risks.*
 
 This **repository serves as a central hub for hands-on labs and academic projects** completed in controlled environments. The work showcased here reflects practical approaches to network security operations, digital forensic analysis, and defensive and offensive security techniques.
 
@@ -16,7 +18,7 @@ This **repository serves as a central hub for hands-on labs and academic project
 - 🕵️ Digital Forensics  
 - 🌐 Network Security  
 - 💣 Offensive Security & Vulnerability Assessment  
-- 🔵 Security Operations & Incident Response  
+- 🔵 Security Operations & Incident Response (*In Progress*)
 
 ---
 
@@ -56,6 +58,7 @@ This portfolio acts as a central hub for multiple cybersecurity domains. Each do
           ├── 🔑 Lab 1: Password Cracking
           ├── ⛓️ Lab 2: Pivoting 
           └── 🛡️ Lab 3: OWASP Top 10
+      
 ```
 ---
 
@@ -80,6 +83,16 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
 
 ---
 
+## 📈 Currently Building Skills In 
+### 🔵 Security Operations & Incident Response  
+
+- SIEM fundamentals (Splunk / ELK)
+- Incident response playbooks
+- Cloud threat detection (AWS GuardDuty)
+- SOC workflows & alert triage
+
+---
+
 ## 💬🤝🏻 Collaboration & Opportunities
 *Feel free to reach out for collaboration or security-focused opportunities.*
 
@@ -94,4 +107,4 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
 ---
 
 ## ⚠️ Disclaimer
-*Note: All projects and labs in this portfolio were conducted in controlled academic or lab environments for educational and research purposes only.*
+*All projects and labs were conducted in controlled academic or research environments and are presented strictly for ethical, educational, and professional security practice purposes.*
