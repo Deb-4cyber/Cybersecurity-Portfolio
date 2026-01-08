@@ -85,16 +85,17 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
 ---
 
 ## 💬🤝 Collaboration & Opportunities
-Feel free to reach out for collaboration or security-focused opportunities.
+*Feel free to reach out for collaboration or security-focused opportunities.*
 
 ---
 
 ## 📫 Contact
-- 💼 **LinkedIn**: [linkedin.com/in/deborah-ageorge](https://linkedin.com/in/deborah-ageorge)
-- 📧 **Email**: [deborahgeorge44@gmail.com](mailto:deborahgeorge44@gmail.com)
-- 💻 **GitHub**: [github.com/Deb-4cyber](https://github.com/Deb-4cyber)
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deborah-ageorge)
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deborahgeorge44@gmail.com)
+ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deb-4cyber)
 
 ---
 
 ## ⚠️ Disclaimer
-All projects and labs in this portfolio were conducted in controlled academic or lab environments for educational and research purposes only.
+> *Note: All projects and labs in this portfolio were conducted in controlled academic or lab environments for educational and research purposes only.*
