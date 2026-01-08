@@ -27,68 +27,67 @@ This **repository serves as a central hub for hands-on labs and academic project
 This portfolio acts as a central hub for multiple cybersecurity domains. Each domain has its own dedicated repository containing hands-on projects, labs, and exercises. This structure is designed for easy navigation and clarity in the featured projects section.
 
 ### Each domain repository contains projects with the following structure:
-- **📌 Project Title** – Clear and descriptive name of the project  
-- **📝 Overview** – Brief summary of project goals and objectives  
-- **⚙️ Methodology / Approach** – Steps, processes, or techniques used  
-- **🛠️ Tools & Technologies** – List of tools, frameworks, and platforms used  
-- **💻 Implementation / Steps** – Detailed walkthrough with code snippets, commands, or lab setups  
-- **📊 Results / Findings** – Outcomes, key takeaways, or security insights discovered  
-- **🖼️ Screenshots / Diagrams /Videos** – Visual evidence of work, lab setup, or results  
-- **💡 Challenges & Lessons Learned** – Optional reflections and problem-solving insights  
+ - 📌 Project Title – Clear and descriptive name of the project  
+ - 📝 Overview – Brief summary of project goals and objectives  
+ - ⚙️ Methodology / Approach – Steps, processes, or techniques used  
+ - 🛠️ Tools & Technologies – List of tools, frameworks, and platforms used  
+ - 💻 Implementation / Steps – Detailed walkthrough with code snippets, commands, or lab setups  
+ - 📊 Results / Findings – Outcomes, key takeaways, or security insights discovered  
+ - 🖼️ Screenshots / Diagrams /Videos – Visual evidence of work, lab setup, or results  
+ - 💡 Challenges & Lessons Learned – Optional reflections and problem-solving insights  
 
 ---
 
-## 🗂️ Portfolio Repository Structure (Visual Overview)
 
-```text
-  Cybersecurity-Portfolio
-  └── 🧩 Domains Covered ~ 📂 Repository Structure
-      ├── ☁️ Cloud Security 
-      │   └── ☁️🔐 Cloud Based Encryption Service via AWS
-      ├── 🔐 Cryptography & Protocol Analysis
-      │   └── 🚀 Research Lab (NSA): Space Communication Protocol Analysis
-      ├── 🕵️‍♂️ Digital Forensics
-      │   ├── 🔍 Lab 1: Autopsy Lab
-      │   ├── 📱 Lab 2: Android App Repackaging
-      │   └── 💾 Lab 3: Windows Memory Forensics
-      ├── 🌐 Network Security
-      │   ├── 📡 Project 1: Port Scan Detection
-      │   ├── 🚪 Project 2: Port Knocking
-      └── 💣 Offensive Security & Pentesting
-          ├── 🔑 Lab 1: Password Cracking
-          ├── ⛓️ Lab 2: Pivoting 
-          └── 🛡️ Lab 3: OWASP Top 10
-      
-```
+## 🗂️ Portfolio Structure Overview
+> ```text
+> Cybersecurity-Portfolio
+> └── 🧩 Domains Covered ~ 📂 Repository Structure
+>     ├── ☁️ Cloud Security 
+>     │   └── ☁️🔐 Cloud Based Encryption Service via AWS
+>     ├── 🔐 Cryptography & Protocol Analysis
+>     │   └── 🚀 Research Lab (NSA): Space Communication Protocol Analysis
+>     ├── 🕵️‍♂️ Digital Forensics
+>     │   ├── 🔍 Lab 1: Autopsy Lab
+>     │   ├── 📱 Lab 2: Android App Repackaging
+>     │   └── 💾 Lab 3: Windows Memory Forensics
+>     ├── 🌐 Network Security
+>     │   ├── 📡 Project 1: Port Scan Detection
+>     │   ├── 🚪 Project 2: Port Knocking
+>     └── 💣 Offensive Security & Pentesting
+>         ├── 🔑 Lab 1: Password Cracking
+>         ├── ⛓️ Lab 2: Pivoting 
+>         └── 🛡️ Lab 3: OWASP Top 10
+> ```
+
 ---
 
 ## 💡 Featured Projects / Labs
 
 Explore hands-on projects and labs across multiple cybersecurity domains:
 
-- [![Cloud Security Repo](https://img.shields.io/badge/Repo-Cloud_Security-orange?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/cloud-security)
+>  [![Cloud Security Repo](https://img.shields.io/badge/Repo-Cloud_Security-orange?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/cloud-security)
   -  ☁️ `AWS EC2` | 🔑 `SSH` / `PuTTY` | 🛡️ `SFTP` / `FileZilla`
 
-- [![Cryptography Repo](https://img.shields.io/badge/Repo-Cryptography-violet?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Cryptography)
+>  [![Cryptography Repo](https://img.shields.io/badge/Repo-Cryptography-violet?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Cryptography)
   - 🧮 `Encryption & Decryption` | 🔏 `Protocol Security` | 🔐 `Authentication`
 
-- [![Digital Forensics Repo](https://img.shields.io/badge/Repo-Digital_Forensics-green?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Digital-Forensics)  
+>  [![Digital Forensics Repo](https://img.shields.io/badge/Repo-Digital_Forensics-green?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Digital-Forensics)  
   - 🗂️ `File & Memory Analysis` | 🔍 `Evidence Collection` | 🕵️ `Forensic Reporting`
 
-- [![Network Security Repo](https://img.shields.io/badge/Repo-Network_Security-blue?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/network-security)  
+>  [![Network Security Repo](https://img.shields.io/badge/Repo-Network_Security-blue?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/network-security)  
   - 🖧 `Network Scanning` | 🛡️ `Firewall & IDS` | 📡 `Packet Analysis`
 
-- [![Offensive Security Repo](https://img.shields.io/badge/Repo-Offensive_Security-red?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/offensive-security)  
+>  [![Offensive Security Repo](https://img.shields.io/badge/Repo-Offensive_Security-red?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/offensive-security)  
   - 🖥️ `Penetration Testing` | 🔓 `Vulnerability Assessment` | 🛠️ `Post Exploitation`
 
 ---
 
 ## 📈 Currently Building Skills In 
-### 🔵 Security Operations & Incident Response  
+> ### 🔵 Security Operations & Incident Response  
 
 - SIEM fundamentals (Splunk / ELK)
 - Incident response playbooks
-- Cloud threat detection (AWS GuardDuty)
 - SOC workflows & alert triage
 
 ---
