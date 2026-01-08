@@ -18,7 +18,7 @@ This **repository serves as a central hub for hands-on labs and academic project
 - 🕵️ Digital Forensics  
 - 🌐 Network Security  
 - 💣 Offensive Security & Vulnerability Assessment  
-- 🔵 Security Operations & Incident Response **In Progress**
+- 🔵 Security Operations & Incident Response 
 
 ---
 
@@ -83,8 +83,7 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
 
 ---
 
-## 📈 Currently Building Skills In 
-> ### 🔵 Security Operations & Incident Response  
+> ## 🔵 Security Operations & Incident Response  (*In Progress*)
 
 - SIEM fundamentals (Splunk / ELK)
 - Incident response playbooks
