@@ -80,7 +80,7 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
   - 🖧 Network Scanning | 🛡️ Firewall & IDS | 📡 Packet Analysis
 
 - [![Offensive Security Repo](https://img.shields.io/badge/Repo-Offensive_Security-red?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/offensive-security)  
-  - 🖥️ Penetration Testing | 🔓 Vulnerability Assessment | 🛠️ Exploit Development
+  - 🖥️ Penetration Testing | 🔓 Vulnerability Assessment | 🛠️ Post Exploitation
 
 ---
 
