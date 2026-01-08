@@ -1,6 +1,6 @@
-# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c8abac9a-30fa-43eb-98f2-516d6ecae7dc" /> Cybersecurity Portfolio
+# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c49790c2-07aa-4ebb-97fb-6735572383d4" /> Cybersecurity Portfolio
 
-# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a3560939-da49-4c32-8519-0b8e9603d497" /> Deborah Adeline George | Cybersecurity Analyst
+# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a3560939-da49-4c32-8519-0b8e9603d497" /> Deborah Adeline George | Cybersecurity Analyst
 
 Welcome to my cybersecurity portfolio!
 
@@ -59,33 +59,33 @@ This portfolio acts as a central hub for multiple cybersecurity domains. Each do
 ```
 ---
 
-## 💡 Featured Projects
+## 💡 Featured Projects / Labs
 
 Explore hands-on projects and labs across multiple cybersecurity domains:
 
 - [![Cloud Security Repo](https://img.shields.io/badge/Repo-Cloud_Security-orange?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/cloud-security)
-  - ☁️ AWS EC2 | 🔑 SSH / PuTTY | 🛡️ SFTP / FileZilla
+  -  ☁️ `AWS EC2` | 🔑 `SSH` / `PuTTY` | 🛡️ `SFTP` / `FileZilla`
 
 - [![Cryptography Repo](https://img.shields.io/badge/Repo-Cryptography-violet?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Cryptography)
-  - 🧮 Encryption & Decryption | 🔏 Protocol Security | 🔐 Authentication
+  - 🧮 `Encryption & Decryption` | 🔏 `Protocol Security` | 🔐 `Authentication`
 
 - [![Digital Forensics Repo](https://img.shields.io/badge/Repo-Digital_Forensics-green?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Digital-Forensics)  
-  - 🗂️ File & Memory Analysis | 🔍 Evidence Collection | 🕵️ Forensic Reporting
+  - 🗂️ `File & Memory Analysis` | 🔍 `Evidence Collection` | 🕵️ `Forensic Reporting`
 
 - [![Network Security Repo](https://img.shields.io/badge/Repo-Network_Security-blue?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/network-security)  
-  - 🖧 Network Scanning | 🛡️ Firewall & IDS | 📡 Packet Analysis
+  - 🖧 `Network Scanning` | 🛡️ `Firewall & IDS` | 📡 `Packet Analysis`
 
 - [![Offensive Security Repo](https://img.shields.io/badge/Repo-Offensive_Security-red?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/offensive-security)  
-  - 🖥️ Penetration Testing | 🔓 Vulnerability Assessment | 🛠️ Post Exploitation
+  - 🖥️ `Penetration Testing` | 🔓 `Vulnerability Assessment` | 🛠️ `Post Exploitation`
 
 ---
 
-## 💬🤝 Collaboration & Opportunities
+## 💬🤝🏻 Collaboration & Opportunities
 *Feel free to reach out for collaboration or security-focused opportunities.*
 
 ---
 
-## 📫 Contact
+## 📫 Contact 
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deborah-ageorge)
  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deborahgeorge44@gmail.com)
