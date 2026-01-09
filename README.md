@@ -83,7 +83,7 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
 
 ---
 
-## 🔵 Security Operations & Incident Response  (*In Progress*)
+### 🔵 Security Operations & Incident Response  (*In Progress*)
 
 - SIEM fundamentals (Splunk / ELK)
 - Incident response playbooks
