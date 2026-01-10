@@ -13,6 +13,7 @@ This **repository serves as a central hub for hands-on labs and academic project
 ---
 
 ## 🧩 Domains Covered
+
 - ☁️🔒 Cloud Security (AWS)  
 - 🔐 Cryptography & Protocol Analysis  
 - 🕵️ Digital Forensics  
@@ -40,6 +41,7 @@ This portfolio acts as a central hub for multiple cybersecurity domains. Each do
 
 
 ## 🗂️ Portfolio Structure Overview
+
 > ```text
 > Cybersecurity-Portfolio
 > └── 🧩 Domains Covered ~ 📂 Repository Structure
@@ -85,13 +87,12 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
 
 ### 🔵 Security Operations & Incident Response  (*In Progress*)
 
-> - SIEM fundamentals (Splunk / ELK)
-> - Incident response playbooks
-> - SOC workflows & alert triage
+*SIEM fundamentals (Splunk / ELK) | Incident response playbooks | SOC workflows & alert triage*
 
 ---
 
 ## 💬🤝🏻 Collaboration & Opportunities
+
 *Feel free to reach out for collaboration or security-focused opportunities.*
 
 ---
@@ -105,4 +106,5 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
 ---
 
 ## ⚠️ Disclaimer
+
 *All projects and labs were conducted in controlled academic or research environments and are presented strictly for ethical, educational, and professional security practice purposes.*
