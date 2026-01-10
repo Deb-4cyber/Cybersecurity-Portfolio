@@ -77,10 +77,10 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
 >  [![Digital Forensics Repo](https://img.shields.io/badge/Repo-Digital_Forensics-brightgreen?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Digital-Forensics)  
   - 🗂️ `File & Memory Analysis` | 🔍 `Evidence Collection` | 🕵️ `Forensic Reporting`
 
->  [![Network Security Repo](https://img.shields.io/badge/Repo-Network_Security-blue?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/network-security)  
+>  [![Network Security Repo](https://img.shields.io/badge/Repo-Network_Security-0096ff?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/network-security)  
   - 🖧 `Network Scanning` | 🛡️ `Firewall & IDS` | 📡 `Packet Analysis`
 
->  [![Offensive Security Repo](https://img.shields.io/badge/Repo-Offensive_Security-red?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/offensive-security)  
+>  [![Offensive Security Repo](https://img.shields.io/badge/Repo-Offensive_Security-ee4b2b?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/offensive-security)  
   - 🖥️ `Penetration Testing` | 🔓 `Vulnerability Assessment` | 🛠️ `Post Exploitation`
 
 ---
