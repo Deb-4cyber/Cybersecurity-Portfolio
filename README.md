@@ -19,7 +19,7 @@ This **repository serves as a central hub for hands-on labs and academic project
 - 🕵️ Digital Forensics  
 - 🌐 Network Security  
 - 🔴 Offensive Security & Vulnerability Assessment  
-- 🔵 Security Operations & Incident Response (*In Progress*)
+- 🔵 Security Operations & Incident Response 
 
 ---
 
