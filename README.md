@@ -59,7 +59,7 @@ This portfolio acts as a central hub for multiple cybersecurity domains. Each do
 >     └── 🔴 Offensive Security & Pentesting
 >         ├── 🔑 Lab 1: Password Cracking via (Hydra) & Rainbow Table Generation (Rcrack)
 >         ├── ⛓️ Lab 2: Vulnerability Exploitation, Network Pivoting & Post-Exploitation 
->         └── 🛡️ Lab 3: OWASP Top 10
+>         └── 🛡️ Lab 3: Web Application Security (XSS and SQLi) 
 > ```
 
 ---
