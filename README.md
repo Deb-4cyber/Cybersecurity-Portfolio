@@ -19,7 +19,7 @@ This **repository serves as a central hub for hands-on labs and academic project
 - 🕵️ Digital Forensics  
 - 🌐 Network Security  
 - 🔴 Offensive Security & Vulnerability Assessment  
-- 🔵 Security Operations & Incident Response 
+- 🔵 Security Operations & Incident Response (*In Progress*)
 
 ---
 
@@ -57,8 +57,8 @@ This portfolio acts as a central hub for multiple cybersecurity domains. Each do
 >     │   ├── 📡 Project 1: Port Scan Detection
 >     │   ├── 🚪 Project 2: Port Knocking
 >     └── 🔴 Offensive Security & Pentesting
->         ├── 🔑 Lab 1: Password Cracking & Rainbow Table
->         ├── ⛓️ Lab 2: Pivoting 
+>         ├── 🔑 Lab 1: Password Cracking via (Hydra) & Rainbow Table Generation (Rcrack)
+>         ├── ⛓️ Lab 2: Vulnerability Exploitation, Network Pivoting & Post-Exploitation 
 >         └── 🛡️ Lab 3: OWASP Top 10
 > ```
 
