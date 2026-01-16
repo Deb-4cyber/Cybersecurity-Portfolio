@@ -1,5 +1,4 @@
-# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c49790c2-07aa-4ebb-97fb-6735572383d4" /> Cybersecurity Portfolio
-
+# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9f2a2120-e10e-4d81-acd0-6c627d9a6ad5" /> Cybersecurity Portfolio
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a3560939-da49-4c32-8519-0b8e9603d497" /> Deborah Adeline George | Cybersecurity Analyst
 
 Welcome to my cybersecurity portfolio!
@@ -16,10 +15,10 @@ This **repository serves as a central hub for hands-on labs and academic project
 
 - ☁️🔒 Cloud Security (AWS)  
 - 🔐 Cryptography & Protocol Analysis  
-- 🕵️ Digital Forensics  
+- 🕵️ Digital Forensics & Incident Response 
 - 🌐 Network Security  
 - 🔴 Offensive Security & Vulnerability Assessment  
-- 🔵 Security Operations & Incident Response 
+- 🔵 Defensive Security 
 
 ---
 
@@ -43,24 +42,51 @@ This portfolio acts as a central hub for multiple cybersecurity domains. Each do
 ## 🗂️ Portfolio Structure Overview
 
 > ```text
-> Cybersecurity-Portfolio
-> └── 🧩 Domains Covered ~ 📂 Repository Structure
->     ├── ☁️ Cloud Security 
->     │   └── ☁️🔐 Cloud Based Encryption Service via AWS
->     ├── 🔐 Cryptography & Protocol Analysis
->     │   └── 🚀 Research Lab (NSA): Space Communication Protocol Analysis
->     ├── 🕵️‍♂️ Digital Forensics
->     │   ├── 🔍 Lab 1: Autopsy Lab
->     │   ├── 📱 Lab 2: Android App Repackaging
->     │   └── 💾 Lab 3: Windows Memory Forensics
->     ├── 🌐 Network Security
->     │   ├── 📡 Project 1: Port Scan Detection
->     │   ├── 🚪 Project 2: Port Knocking
->     └── 🔴 Offensive Security & Pentesting
->         ├── 🔑 Lab 1: Password Cracking via (Hydra) & Rainbow Table Generation (Rcrack)
->         ├── ⛓️ Lab 2: Vulnerability Exploitation, Network Pivoting & Post-Exploitation 
->         └── 🛡️ Lab 3: Web Application Security (XSS and SQLi) 
+>  Cybersecurity-Portfolio 
+>  │
+>  └── 🧩 Domains ~ 📂 Repository Structure
+>  |
+>  └── 💡 Featured Projects / Labs
+>  |  
+>  └── ├── ☁️ Cloud Security 
+>      │   └── 🔐 Cloud Based Encryption Service via AWS
+>      │
+>      ├── 🔐 Cryptography & Protocol Analysis
+>      │   └── 🚀 Research Lab (NSA): Space Communication Protocol Analysis
+>      │
+>      ├── 🕵️‍♂️ Digital Forensics & Incident Response
+>      │   ├── 🔍 Lab 1: Autopsy Lab
+>      │   ├── 📱 Lab 2: Android App Repackaging
+>      │   └── 💾 Lab 3: Windows Memory Forensics
+>      │
+>      ├── 🌐 Network Security
+>      │   ├── 📡 Project 1: Port Scan Detection
+>      │   └── 🚪 Project 2: Port Knocking
+>      │
+>      ├── 🔴 Offensive Security & Vulnerability Assessment  
+>      │   ├── 🔑 Lab 1: Password Cracking (Hydra & Rainbow Tables)
+>      │   ├── ⛓️ Lab 2: Vulnerability Exploitation & Post-Exploitation 
+>      │   └── 🛡️ Lab 3: Web Application Security (XSS and SQLi)
+>      │
+>      ├── 🔵 Defensive Security (In Progress)
+>      │   ├── 🛡️ SIEM Fundamentals (Splunk / ELK)
+>      │   ├── 📑 Incident Response Playbooks
+>      │   └── 🚨 SOC Workflows & Alert Triage
+>      │
+>      ├── 📫 Contact & Professional Profiles
+>      │   ├── 💼 LinkedIn
+>      │   └── 📧 Email
+>      │
+>      └── ⚠️ Disclaimer
 > ```
+
+---
+
+##  🔑 Repository Access
+
+~ **Note to Recruiters:** To protect the integrity of academic research and prevent automated security flags, my specialized repositories are currently set to Private.
+
+~ **Collaborator Access:** If you would like to audit the full source code or documentation for a specific project, please contact me, and I will be happy to grant you temporary Collaborator Access.
 
 ---
 
@@ -77,23 +103,15 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
 >  [![Digital Forensics Repo](https://img.shields.io/badge/Repo-Digital_Forensics-brightgreen?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Digital-Forensics)  
   - 🗂️ `File & Memory Analysis` | 🔍 `Evidence Collection` | 🕵️ `Forensic Reporting`
 
->  [![Network Security Repo](https://img.shields.io/badge/Repo-Network_Security-0096ff?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/network-security)  
+>  [![Network Security Repo](https://img.shields.io/badge/Repo-Network_Security-2cd2dd?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/network-security)  
   - 🖧 `Network Scanning` | 🛡️ `Firewall & IDS` | 📡 `Packet Analysis`
 
->  [![Offensive Security Repo](https://img.shields.io/badge/Repo-Offensive_Security-ee4b2b?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Offensive-Security)  
+>  [![Offensive Security Repo](https://img.shields.io/badge/Repo-Offensive_Security-FF2400?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Offensive-Security)  
   - 🖥️ `Penetration Testing` | 🔓 `Vulnerability Assessment` | 🛠️ `Post Exploitation`
 
----
-
-### 🔵 Security Operations & Incident Response  (*In Progress*)
-
-*SIEM fundamentals (Splunk / ELK) | Incident response playbooks | SOC workflows & alert triage*
-
----
-
-## 💬🤝🏻 Collaboration & Opportunities
-
-*Feel free to reach out for collaboration or security-focused opportunities.*
+### (*In Progress*)
+> [![Defensive Security Repo](https://img.shields.io/badge/Repo-Defensive_Security-0437F2?style=for-the-badge&logo=github&labelColor=grey)](#) 
+  - 🔭 `SIEM (Splunk/ELK)` | 📑 `Incident Response` | 🚨 `SOC Workflows`
 
 ---
 
