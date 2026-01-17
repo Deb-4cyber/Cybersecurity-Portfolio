@@ -1,7 +1,7 @@
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9f2a2120-e10e-4d81-acd0-6c627d9a6ad5" /> Cybersecurity Portfolio
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a3560939-da49-4c32-8519-0b8e9603d497" /> Deborah Adeline George | Multi-Domain Cybersecurity Specialist
 
-Welcome to my cybersecurity portfolio!
+Welcome to my portfolio!!!
 
 Cybersecurity professional **specializing in Identity & Access Management (IAM), Regulatory Compliance**, and Secure System Operations. Proven **track record in FDA-regulated** healthcare manufacturing, ensuring audit readiness and mitigating access-related risks through robust RBAC and identity lifecycle management.
 
