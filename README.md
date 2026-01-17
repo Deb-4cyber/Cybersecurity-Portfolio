@@ -17,8 +17,8 @@ This **repository serves as a central hub for hands-on labs and academic project
 | :--- | :--- |
 | **Identity & Access (IAM)** | Role-Based Access Control (RBAC), Identity Lifecycle Management, AWS IAM, Least Privilege (PoLP), MFA/SSO |
 | **Governance & Risk (GRC)** | FDA Regulatory Compliance, Audit Readiness, NIST Cybersecurity Framework (CSF), Technical Policy Documentation |
-| **Security Operations** | Splunk (SIEM), ELK Stack, Wireshark, Incident Response Playbooks, SOC Alert Triage & Analysis |
-| **Cloud & Infrastructure** | AWS (EC2, S3, VPC), Linux System Administration, Secure File Transfer (SFTP/SSH), Bash Scripting |
+| **Security Operations** |                                                                              |
+| **Cloud & Infrastructure** | AWS (EC2, S3), Linux System Administration, Secure File Transfer (SFTP/SSH), Bash Scripting |
 | **Digital Forensics & Incident Response (DFIR)** | Autopsy, Volatility (Memory Analysis), FTK Imager, Android App Repackaging & Malware Analysis |
 | **Vulnerability Management** | Nmap, Metasploit, Kali Linux, Attack Surface Discovery, Vulnerability Assessment |
 
@@ -40,10 +40,10 @@ This portfolio acts as a central hub for multiple cybersecurity domains. Each do
 
 ---
 
-##  🔑 Repository Access
+##  🔑 Repository Access - Security & Compliance Notice
 
 > [!WARNING]
-> **Security & Compliance Notice:** *To prevent automated security flags and ensure compliance with Responsible Disclosure and Malicious Code policies, repositories containing exploit methodologies are maintained as Private. To audit my technical workflows, methodology, or lab results, please request a Secure Collaborator Invite. This ensures that security research remains in a controlled environment as per industry best practices.*
+> *To prevent automated security flags and ensure compliance with Responsible Disclosure and Malicious Code policies, repositories containing exploit methodologies are maintained as Private. To audit my technical workflows, methodology, or lab results, please request a Secure Collaborator Invite. This ensures that security research remains in a controlled environment as per industry best practices.*
 
 ---
 
@@ -69,45 +69,40 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
 
 ### 🗂️ Portfolio Structure Overview
 
-> ```text
->
-> Cybersecurity-Portfolio 
-> │
-> └── 🧩 Technical Competencies
-> |
-> ├── 📂 Repository Structure
-> |
-> ├── 🔑 Repository Access
-> |
-> └── ├──💡 Featured Projects / Labs
->         |
->         ├── ☁️ Cloud Security & Infrastructure
->         │   └── 🔐 Cloud Based Encryption Service via AWS
->         │
->         ├── 🔐 Cryptography & Protocol Analysis
->         │   └── 🚀 Research Lab (NSA): Space Communication Protocol Analysis
->         │
->         ├── 🕵️‍♂️ Digital Forensics & Incident Response (DFIR)
->         │   ├── 🔍 Lab 1: Autopsy Lab
->         │   ├── 📱 Lab 2: Android App Repackaging
->         │   └── 💾 Lab 3: Windows Memory Forensics
->         │
->         ├── 🌐 Network Security
->         │   ├── 📡 Project 1: Port Scan Detection
->         │   └── 🚪 Project 2: Port Knocking
->         │
->         ├── 🔴 Offensive Security & Vulnerability Assessment  
->         │   ├── 🔑 Lab 1: Password Cracking (Hydra & Rainbow Tables)
->         │   ├── ⛓️ Lab 2: Vulnerability Exploitation & Post-Exploitation 
->         │   └── 🛡️ Lab 3: Web Application Security (XSS and SQLi)
->         │
->         ├── 🔵 Defensive Security (In Progress)
->         │   ├── 🛡️ SIEM Fundamentals (Splunk / ELK)
->         │   ├── 📑 Incident Response Playbooks
->         │   └── 🚨 SOC Workflows & Alert Triage
->
-> ```
-> 
+```text
+Cybersecurity-Portfolio 
+│
+├── 🧩 Technical Competencies 
+├── 📂 Repository Structure
+├── 🔑 Repository Access
+└── 💡 Featured Projects / Labs
+    │
+    ├── ☁️ Cloud Security & Infrastructure
+    │   └── 🔐 Cloud Based Encryption Service via AWS
+    │
+    ├── 🔐 Cryptography & Protocol Analysis
+    │   └── 🚀 Research Lab (NSA) — Space Communication Protocol Analysis
+    │
+    ├── 🕵️‍♂️ Digital Forensics & Incident Response (DFIR)
+    │   ├── 🔍 Lab 1 — Autopsy Lab
+    │   ├── 📱 Lab 2 — Android App Repackaging
+    │   └── 💾 Lab 3 — Windows Memory Forensics
+    │
+    ├── 🌐 Network Security
+    │   ├── 📡 Project 1 — Port Scan Detection
+    │   └── 🚪 Project 2 — Port Knocking
+    │
+    ├── 🔴 Offensive Security & Vulnerability Assessment  
+    │   ├── 🔑 Lab 1 — Password Cracking (Hydra & Rainbow Tables)
+    │   ├── ⛓️ Lab 2 — Vulnerability Exploitation & Post-Exploitation 
+    │   └── 🛡️ Lab 3 — Web Application Security (XSS and SQLi)
+    │
+    └── 🔵 Defensive Security (In Progress)
+        ├── 🛡️ SIEM Fundamentals — Splunk / ELK
+        ├── 📑 Incident Response Playbooks
+        └── 🚨 SOC Workflows — Alert Triage
+```
+
 ---
 
 ## 📫 Contact 
