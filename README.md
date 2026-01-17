@@ -3,9 +3,9 @@
 
 Welcome to my portfolio!
 
-Cybersecurity professional **specializing in Identity & Access Management (IAM), Regulatory Compliance**, and Secure System Operations. Proven **track record in FDA-regulated** healthcare manufacturing, ensuring audit readiness and mitigating access-related risks through robust RBAC and identity lifecycle management.
+Cybersecurity professional **specialized in Identity & Access Management (IAM), Regulatory Compliance**, and Secure System Operations. Proven **track record in FDA-regulated** healthcare manufacturing, ensuring audit readiness and mitigating access-related risks through robust RBAC and identity lifecycle management.
 
-Leveraging **double Master’s degrees in Cybersecurity and Computer Science** to bridge the gap between complex academic research and real-world defensive operations.
+Leveraging **double Master’s degrees in Cybersecurity and Computer Science** to bridge the gap between complex academic research and real-world defensive & offensive operations.
 
 This **repository serves as a central hub for hands-on labs and academic projects** completed in controlled environments. The work showcased here reflects practical approaches to network security operations, digital forensic analysis, and defensive and offensive security techniques.
 
@@ -15,12 +15,12 @@ This **repository serves as a central hub for hands-on labs and academic project
 
 | Domain | Expertise & Tools |
 | :--- | :--- |
-| **Identity & Access (IAM)** | Role-Based Access Control (RBAC), Identity Lifecycle Management, AWS IAM, Least Privilege (PoLP), MFA/SSO |
-| **Governance & Risk (GRC)** | FDA Regulatory Compliance, Audit Readiness, NIST Cybersecurity Framework (CSF), Technical Policy Documentation |
-| **Security Operations** |                                                                              |
+| **Identity & Access (IAM)** | Role-Based Access Control (RBAC), Identity Lifecycle Management, IAM, Least Privilege (PoLP), MFA/SSO |
+| **Governance & Risk (GRC)** | FDA Regulatory Compliance, Audit Readiness, Technical Policy Documentation |
 | **Cloud & Infrastructure** | AWS (EC2, S3), Linux System Administration, Secure File Transfer (SFTP/SSH), Bash Scripting |
 | **Digital Forensics & Incident Response (DFIR)** | Autopsy, Volatility (Memory Analysis), FTK Imager, Android App Repackaging & Malware Analysis |
-| **Vulnerability Management** | Nmap, Metasploit, Kali Linux, Attack Surface Discovery, Vulnerability Assessment |
+| **Network Security** | Custom IDS Development, Signature-Based Detection, Port Scan Mitigation, Stateful Port Knocking, Iptables Orchestration |
+| **Offensive Security** | **Exploitation:** Nmap, Metasploit, Kali Linux <br> **Credential Auditing:** Hydra/Medusa, RainbowCrack, John The Ripper <br> **Vulnerability Assessment:** OpenVAS <br> **Web Exploitation:** BurpSuite & SQLmap (OWASP Top 10)|
 
 ---
 
