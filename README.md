@@ -1,7 +1,7 @@
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9f2a2120-e10e-4d81-acd0-6c627d9a6ad5" /> Cybersecurity Portfolio
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a3560939-da49-4c32-8519-0b8e9603d497" /> Deborah Adeline George | Multi-Domain Cybersecurity Specialist
 
-Welcome to my portfolio!!!
+Welcome to my portfolio!
 
 Cybersecurity professional **specializing in Identity & Access Management (IAM), Regulatory Compliance**, and Secure System Operations. Proven **track record in FDA-regulated** healthcare manufacturing, ensuring audit readiness and mitigating access-related risks through robust RBAC and identity lifecycle management.
 
@@ -11,7 +11,7 @@ This **repository serves as a central hub for hands-on labs and academic project
 
 ---
 
-## ⚙️ Technical Competencies
+## 🧩 Technical Competencies
 
 | Domain | Expertise & Tools |
 | :--- | :--- |
@@ -65,6 +65,49 @@ Explore hands-on projects and labs across multiple cybersecurity domains:
 > ![Defensive Security Repo](https://img.shields.io/badge/Repo-Defensive_Security-0437F2?style=for-the-badge&logo=github&labelColor=grey)
 
 
+---
+
+### 🗂️ Portfolio Structure Overview
+
+> ```text
+>
+> Cybersecurity-Portfolio 
+> │
+> └── 🧩 Technical Competencies
+> |
+> ├── 📂 Repository Structure
+> |
+> ├── 🔑 Repository Access
+> |
+> └── ├──💡 Featured Projects / Labs
+>         |
+>         ├── ☁️ Cloud Security & Infrastructure
+>         │   └── 🔐 Cloud Based Encryption Service via AWS
+>         │
+>         ├── 🔐 Cryptography & Protocol Analysis
+>         │   └── 🚀 Research Lab (NSA): Space Communication Protocol Analysis
+>         │
+>         ├── 🕵️‍♂️ Digital Forensics & Incident Response (DFIR)
+>         │   ├── 🔍 Lab 1: Autopsy Lab
+>         │   ├── 📱 Lab 2: Android App Repackaging
+>         │   └── 💾 Lab 3: Windows Memory Forensics
+>         │
+>         ├── 🌐 Network Security
+>         │   ├── 📡 Project 1: Port Scan Detection
+>         │   └── 🚪 Project 2: Port Knocking
+>         │
+>         ├── 🔴 Offensive Security & Vulnerability Assessment  
+>         │   ├── 🔑 Lab 1: Password Cracking (Hydra & Rainbow Tables)
+>         │   ├── ⛓️ Lab 2: Vulnerability Exploitation & Post-Exploitation 
+>         │   └── 🛡️ Lab 3: Web Application Security (XSS and SQLi)
+>         │
+>         ├── 🔵 Defensive Security (In Progress)
+>         │   ├── 🛡️ SIEM Fundamentals (Splunk / ELK)
+>         │   ├── 📑 Incident Response Playbooks
+>         │   └── 🚨 SOC Workflows & Alert Triage
+>
+> ```
+> 
 ---
 
 ## 📫 Contact 
