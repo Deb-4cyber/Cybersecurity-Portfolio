@@ -1,24 +1,26 @@
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9f2a2120-e10e-4d81-acd0-6c627d9a6ad5" /> Cybersecurity Portfolio
-# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a3560939-da49-4c32-8519-0b8e9603d497" /> Deborah Adeline George | Cybersecurity Analyst
+# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a3560939-da49-4c32-8519-0b8e9603d497" /> Deborah Adeline George | Multi-Domain Cybersecurity Specialist
 
 Welcome to my cybersecurity portfolio!
 
-I am a cybersecurity professional with **double Master’s degrees in Cybersecurity and Computer Science**, combining strong academic foundations with hands-on experience across multiple security domains. 
+Cybersecurity professional **specializing in Identity & Access Management (IAM), Regulatory Compliance**, and Secure System Operations. Proven **track record in FDA-regulated** healthcare manufacturing, ensuring audit readiness and mitigating access-related risks through robust RBAC and identity lifecycle management.
 
-*I bring industry experience from an FDA-regulated healthcare manufacturing environment, where I supported secure system operations by managing RBAC, identity workflows, and compliance, documentation helping maintain audit readiness and reduce access-related security risks.*
+Leveraging **double Master’s degrees in Cybersecurity and Computer Science** to bridge the gap between complex academic research and real-world defensive operations.
 
 This **repository serves as a central hub for hands-on labs and academic projects** completed in controlled environments. The work showcased here reflects practical approaches to network security operations, digital forensic analysis, and defensive and offensive security techniques.
 
 ---
 
-## 🧩 Domains Covered
+## ⚙️ Technical Competencies
 
-- ☁️🔒 Cloud Security (AWS)  
-- 🔐 Cryptography & Protocol Analysis  
-- 🕵️ Digital Forensics & Incident Response 
-- 🌐 Network Security  
-- 🔴 Offensive Security & Vulnerability Assessment  
-- 🔵 Defensive Security 
+| Domain | Expertise & Tools |
+| :--- | :--- |
+| **Identity & Access (IAM)** | Role-Based Access Control (RBAC), Identity Lifecycle Management, AWS IAM, Least Privilege (PoLP), MFA/SSO |
+| **Governance & Risk (GRC)** | FDA Regulatory Compliance, Audit Readiness, NIST Cybersecurity Framework (CSF), Technical Policy Documentation |
+| **Security Operations** | Splunk (SIEM), ELK Stack, Wireshark, Incident Response Playbooks, SOC Alert Triage & Analysis |
+| **Cloud & Infrastructure** | AWS (EC2, S3, VPC), Linux System Administration, Secure File Transfer (SFTP/SSH), Bash Scripting |
+| **Digital Forensics & Incident Response (DFIR)** | Autopsy, Volatility (Memory Analysis), FTK Imager, Android App Repackaging & Malware Analysis |
+| **Vulnerability Management** | Nmap, Metasploit, Kali Linux, Attack Surface Discovery, Vulnerability Assessment |
 
 ---
 
@@ -27,66 +29,21 @@ This **repository serves as a central hub for hands-on labs and academic project
 This portfolio acts as a central hub for multiple cybersecurity domains. Each domain has its own dedicated repository containing hands-on projects, labs, and exercises. This structure is designed for easy navigation and clarity in the featured projects section.
 
 ### Each domain repository contains projects with the following structure:
- - 📌 Project Title – Clear and descriptive name of the project  
- - 📝 Overview – Brief summary of project goals and objectives  
- - ⚙️ Methodology / Approach – Steps, processes, or techniques used  
- - 🛠️ Tools & Technologies – List of tools, frameworks, and platforms used  
- - 💻 Implementation / Steps – Detailed walkthrough with code snippets, commands, or lab setups  
- - 📊 Results / Findings – Outcomes, key takeaways, or security insights discovered  
- - 🖼️ Screenshots / Diagrams /Videos – Visual evidence of work, lab setup, or results  
- - 💡 Challenges & Lessons Learned – Optional reflections and problem-solving insights  
-
----
-
-
-## 🗂️ Portfolio Structure Overview
-
-> ```text
->  Cybersecurity-Portfolio 
->  │
->  └── 🧩 Domains ~ 📂 Repository Structure
->  |
->  └── 💡 Featured Projects / Labs
->  |  
->  └── ├── ☁️ Cloud Security 
->      │   └── 🔐 Cloud Based Encryption Service via AWS
->      │
->      ├── 🔐 Cryptography & Protocol Analysis
->      │   └── 🚀 Research Lab (NSA): Space Communication Protocol Analysis
->      │
->      ├── 🕵️‍♂️ Digital Forensics & Incident Response
->      │   ├── 🔍 Lab 1: Autopsy Lab
->      │   ├── 📱 Lab 2: Android App Repackaging
->      │   └── 💾 Lab 3: Windows Memory Forensics
->      │
->      ├── 🌐 Network Security
->      │   ├── 📡 Project 1: Port Scan Detection
->      │   └── 🚪 Project 2: Port Knocking
->      │
->      ├── 🔴 Offensive Security & Vulnerability Assessment  
->      │   ├── 🔑 Lab 1: Password Cracking (Hydra & Rainbow Tables)
->      │   ├── ⛓️ Lab 2: Vulnerability Exploitation & Post-Exploitation 
->      │   └── 🛡️ Lab 3: Web Application Security (XSS and SQLi)
->      │
->      ├── 🔵 Defensive Security (In Progress)
->      │   ├── 🛡️ SIEM Fundamentals (Splunk / ELK)
->      │   ├── 📑 Incident Response Playbooks
->      │   └── 🚨 SOC Workflows & Alert Triage
->      │
->      ├── 📫 Contact & Professional Profiles
->      │   ├── 💼 LinkedIn
->      │   └── 📧 Email
->      │
->      └── ⚠️ Disclaimer
-> ```
+ - 📌 Project Title  
+ - 📝 Overview 
+ - ⚙️ Methodology  
+ - 🛠️ Tools & Technologies 
+ - 💻 Implementation 
+ - 📊 Results / Findings 
+ - 🖼️ Screenshots / Diagrams /Videos 
+ - 💡 Challenges & Lessons Learned 
 
 ---
 
 ##  🔑 Repository Access
 
-~ **Note to Recruiters:** To protect the integrity of academic research and prevent automated security flags, my specialized repositories are currently set to Private.
-
-~ **Collaborator Access:** If you would like to audit the full source code or documentation for a specific project, please contact me, and I will be happy to grant you temporary Collaborator Access.
+> [!WARNING]
+> **Security & Compliance Notice:** *To prevent automated security flags and ensure compliance with Responsible Disclosure and Malicious Code policies, repositories containing exploit methodologies are maintained as Private. To audit my technical workflows, methodology, or lab results, please request a Secure Collaborator Invite. This ensures that security research remains in a controlled environment as per industry best practices.*
 
 ---
 
@@ -95,23 +52,18 @@ This portfolio acts as a central hub for multiple cybersecurity domains. Each do
 Explore hands-on projects and labs across multiple cybersecurity domains:
 
 >  [![Cloud Security Repo](https://img.shields.io/badge/Repo-Cloud_Security-orange?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/cloud-security)
-  -  ☁️ `AWS EC2` | 🔑 `SSH` / `PuTTY` | 🛡️ `SFTP` / `FileZilla`
 
 >  [![Cryptography Repo](https://img.shields.io/badge/Repo-Cryptography-ff69b4?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Cryptography)
-  - 🧮 `Encryption & Decryption` | 🔏 `Protocol Security` | 🔐 `Authentication`
 
 >  [![Digital Forensics Repo](https://img.shields.io/badge/Repo-Digital_Forensics-brightgreen?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Digital-Forensics)  
-  - 🗂️ `File & Memory Analysis` | 🔍 `Evidence Collection` | 🕵️ `Forensic Reporting`
 
 >  [![Network Security Repo](https://img.shields.io/badge/Repo-Network_Security-2cd2dd?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/network-security)  
-  - 🖧 `Network Scanning` | 🛡️ `Firewall & IDS` | 📡 `Packet Analysis`
 
 >  [![Offensive Security Repo](https://img.shields.io/badge/Repo-Offensive_Security-FF2400?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/Offensive-Security)  
-  - 🖥️ `Penetration Testing` | 🔓 `Vulnerability Assessment` | 🛠️ `Post Exploitation`
 
-### (*In Progress*)
-> [![Defensive Security Repo](https://img.shields.io/badge/Repo-Defensive_Security-0437F2?style=for-the-badge&logo=github&labelColor=grey)](#) 
-  - 🔭 `SIEM (Splunk/ELK)` | 📑 `Incident Response` | 🚨 `SOC Workflows`
+### (*Current Focus*)
+> ![Defensive Security Repo](https://img.shields.io/badge/Repo-Defensive_Security-0437F2?style=for-the-badge&logo=github&labelColor=grey)
+
 
 ---
 
