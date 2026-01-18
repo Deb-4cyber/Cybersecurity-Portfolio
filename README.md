@@ -20,7 +20,7 @@ This **repository serves as a central hub for hands-on labs and academic project
 | **Cloud & Infrastructure** | AWS (EC2, S3), Linux System Administration, Secure File Transfer (SFTP/SSH), Bash Scripting |
 | **Digital Forensics & Incident Response (DFIR)** | Autopsy, Volatility (Memory Analysis), FTK Imager, Android App Repackaging & Malware Analysis |
 | **Network Security** | Custom IDS Development, Signature-Based Detection, Port Scan Mitigation, Stateful Port Knocking, Iptables Orchestration |
-| **Offensive Security** | **Exploitation:** Nmap, Metasploit, Kali Linux <br> **Credential Auditing:** Hydra/Medusa, RainbowCrack, John The Ripper <br> **Vulnerability Assessment:** OpenVAS <br> **Web Exploitation:** BurpSuite & SQLmap (OWASP Top 10)|
+| **Offensive Security** | **Exploitation:** Nmap, Metasploit, Kali Linux <br> **Credential Auditing:** Hydra/Medusa, RainbowCrack, John The Ripper <br> **Vulnerability Assessment:** OpenVAS <br> **Web Exploitation:** BurpSuite & SQLmap (OWASP Top 10) <br> **OSINT:** Shodan, recon-ng, theHarvester & BuiltWith |
 
 ---
 
