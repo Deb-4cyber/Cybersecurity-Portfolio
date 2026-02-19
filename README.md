@@ -13,11 +13,11 @@ This **repository serves as a central hub for hands-on labs and academic project
 
 | Domain | Expertise & Tools |
 | :--- | :--- |
-| **Identity & Access (IAM)** | IAM, RBAC, AD, GPO, Least Privilege (PoLP), MFA/SSO, ServiceNow |
-| **Governance & Risk (GRC)** | FDA Regulatory Compliance, Audit Readiness, Technical Policy Documentation |
-| **Cloud & Infrastructure** | AWS (EC2, S3), Linux System Administration, Secure File Transfer (SFTP/SSH), Bash Scripting |
-| **Digital Forensics & Incident Response (DFIR)** | Autopsy, Volatility (Memory Analysis), FTK Imager, Android App Repackaging & Malware Analysis |
-| **Network Security** | Custom IDS Development, Signature-Based Detection, Port Scan Mitigation, Stateful Port Knocking, Iptables Orchestration |
+| **SOC / SIEM** | Splunk (Log Ingestion, Search, Alerting), ServiceNow (Incident Ticketing), Alert Triage, Windows Event Viewer & Domain Controller Log Monitoring, MITRE ATT&CK (TA0008 - Lateral Movement)|
+| **Identity & Access Management (IAM)** | IAM, RBAC, AD, GPO, Least Privilege (PoLP), MFA/SSO |
+| **Network Security** | IDS/HIDS Custom Development, Wireshark, Firewall/Iptables, Detection Signatures, Network Segmentation, SOAR Concepts |
+| **Digital Forensics & Incident Response (DFIR)** | Memory Forensics (Volatility 2/3), Artifact Analysis (Autopsy, FTK Imager), Threat Hunting (IOC), Timeline Reconstruction, Malware Persistence, Android Reverse Engineering (APK Tool)  |
+| **Cloud & Infrastructure** |AWS (EC2, Cognito, DynamoDB), Linux Administration, Bash Scripting, Backend Hardening |
 | **Offensive Security** | **Exploitation:** Nmap, Metasploit, Kali Linux <br> **Credential Auditing:** Hydra/Medusa & John The Ripper <br> **Vulnerability Assessment:** OpenVAS <br> **Web Exploitation:** BurpSuite & SQLmap (OWASP) <br> **OSINT:** Shodan, recon-ng |
 
 ---
@@ -49,8 +49,7 @@ This portfolio acts as a central hub for multiple cybersecurity domains. Each do
 
 Explore hands-on projects and labs across multiple cybersecurity domains:
 
-### (*Current Focus*)
-> ![Defensive Security Repo](https://img.shields.io/badge/Repo-Defensive_Security-0437F2?style=for-the-badge&logo=github&labelColor=grey)
+> ![Defensive Security Repo](https://img.shields.io/badge/Repo-Defensive_Security-0437F2?style=for-the-badge&logo=github&labelColor=grey) (**In Progress**)
 
 >  [![Network Security Repo](https://img.shields.io/badge/Repo-Network_Security-2cd2dd?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/Deb-4cyber/network-security)
 
@@ -91,7 +90,7 @@ Cybersecurity-Portfolio
     │
     ├── 🔴 Offensive Security & Vulnerability Assessment  
     │   ├── 🔑 Lab 1 — Password Cracking (Hydra & Rainbow Tables)
-    │   ├── ⛓️ Lab 2 — Network Pivoting / Lateral Movement (MITRE ATT&CK)
+    │   ├── ⛓️ Lab 2 — Network Pivoting / Lateral Movement (MITRE ATT&CK - TA0008)
     │   └── 🛡️ Lab 3 — Web Application Security (XSS and SQLi)
     │
     └── 🔵 Defensive Security (In Progress)
